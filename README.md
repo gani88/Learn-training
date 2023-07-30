@@ -7,5 +7,7 @@
   Additionally, I am developing a project practice section where I will be showcasing my hands-on projects. I value your input and feedback, so if you have any advice or recommendations related to my projects, I would highly appreciate it.
 
   Together, let's grow and learn in the exciting world of data science, machine learning, and technology!
+
+  *Learning source and tutorial is from kaggle for now
 </p>
 
